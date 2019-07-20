@@ -1,0 +1,5 @@
+-- BEGINNING OF THE FILE
+% Day, Month, Year, Skip, Avg Power
+01, 01, 2000, x876, 13 % crazy day!
+% we don’t have Jan 03rd
+04, 01, 2000, xfed, 55
